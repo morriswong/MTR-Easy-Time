@@ -6,7 +6,8 @@ const Station = models.station;
 const Line_station = models.line_station;
 const User = models.user;
 const Favor = models.favor;
-const mapsToken = 'AIzaSyBoFN8cy4YjlKB8EF6mccM6Re4DOzzMn04'
+// const mapsToken = 'AIzaSyBoFN8cy4YjlKB8EF6mccM6Re4DOzzMn04'
+const mapsToken = 'AIzaSyC3zJLsxKZ-6DYh9lnztQi4SAPKhL-zLDY'
 const Redis = require('./redis');
 
 const BUTTONS = {
